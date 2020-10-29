@@ -6,7 +6,14 @@ const App = (props) => {
 
   return (
     <div className="App">
-      
+      <div className="Header">
+      </div>
+      <div className="Container">
+      </div>
+      <div className="Contact">
+      </div>
+      <div className="Footer">
+      </div>
     </div>
   )
 
