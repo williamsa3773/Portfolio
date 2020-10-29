@@ -28,6 +28,26 @@
 }
 
 h1 {
-  color: #f64b28;
+  color: #f64b29;
   font-size: 31.5px;
+}
+
+.Container {
+  /* background-color: #1b212c; */
+  display: grid;
+  grid-template-columns: 50vw 50vw;
+}
+
+.Left {
+  background-color: #1b212c;
+  width: 44vw;
+  border-radius: 15px;
+  margin-left: 3vw;
+}
+
+.Right {
+  background-color: #1b212c;
+  width: 44vw;
+  border-radius: 15px;
+  margin-left: 3vw;
 }

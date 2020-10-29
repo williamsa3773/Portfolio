@@ -10,7 +10,12 @@ const App = (props) => {
         <h1>Andre Giovann Williams</h1>
       </div>
       <div className="Container">
-        <p>Sample Text</p>
+        <div className="Left">
+          <p>sample text left</p>
+        </div>
+        <div className="Right">
+          <p>sample text right</p>
+        </div>
       </div>
       <div className="Contact">
         <p>Sample Text</p>
