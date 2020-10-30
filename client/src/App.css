@@ -51,3 +51,18 @@ h1 {
   border-radius: 15px;
   margin-left: 3vw;
 }
+
+.Contact {
+  background-color: #1b212c;
+  border-radius: 15px;
+  margin-top: 4vh;
+  margin-left: 7vw;
+  margin-right: 7vw;
+  margin-bottom: 4vh;
+}
+
+.Footer {
+  background-color: #1b212c;
+  border-radius: 15px;
+  width: 25vw;
+}

@@ -11,10 +11,8 @@ const App = (props) => {
       </div>
       <div className="Container">
         <div className="Left">
-          <p>sample text left</p>
         </div>
         <div className="Right">
-          <p>sample text right</p>
         </div>
       </div>
       <div className="Contact">
