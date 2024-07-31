@@ -1,4 +1,6 @@
 import type { Component } from 'solid-js';
+
+
 //step 1 work on carousel of projects
 //adding googlesheets to project so that i can better represent my projects in a controlled environment
 //1.1 setting up googlesheets for data retrieval
